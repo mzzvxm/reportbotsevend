@@ -1,0 +1,8 @@
+argparse
+selenium
+customtkinter
+tkinter
+argparse
+pillow
+sys
+time
